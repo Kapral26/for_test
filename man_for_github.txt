@@ -59,6 +59,7 @@ git remote add origin https://github.com/Kapral26/for_test.git
 7)Для отправки в репозитрий:
 git push -u origin master
 
+8)добавил новую информацию
 
 
 
