@@ -64,6 +64,8 @@ git push -u origin master
 
 git clone https://github.com/Kapral26/for_test.git
 
+this is main
+
 
 
 
