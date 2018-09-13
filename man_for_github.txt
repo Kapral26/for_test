@@ -57,7 +57,7 @@ git remote rm origin
 git remote add origin https://github.com/Kapral26/for_test.git
 
 7)Для отправки в репозитрий:
-git push -u origin master
+git push -u origin master (где master - ветка)
 
 8)Для скачивания каталога с github его необходимо клонировать
 для этого на странице репозитория копирую ссылку и исполузуя команду git clone копирую внужный каталог
