@@ -66,6 +66,12 @@ git clone https://github.com/Kapral26/for_test.git
 
 this is main
 
+9)Для создания новой ветки репозитория:
+git branch *имя ветки*
+
+10)ереключение на эту ветку:
+git checkout *имя ветки*
+
 
 
 
